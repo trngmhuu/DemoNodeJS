@@ -1,0 +1,30 @@
+{
+  "name": "demonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trngmhuu/DemoNodeJS.git"
+  },
+  "keywords": [
+    "f8",
+    "node",
+    "nodejsbasic",
+    "nodejstutorial"
+  ],
+  "author": "trngmhuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trngmhuu/DemoNodeJS/issues"
+  },
+  "homepage": "https://github.com/trngmhuu/DemoNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
